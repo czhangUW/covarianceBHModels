@@ -1,1 +1,1 @@
-This is the notebook file for all derivations related to covariant black hole (BH) models.
+This is the codes for all derivations related to covariant black hole (BH) models.
